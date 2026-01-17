@@ -1,8 +1,4 @@
-## Hi there 👋
+# 👋 ¡Hi! I'm Camila Scheurer
 
-# 👋 ¡Hola! Soy Camila Scheurer
-
-💻 Estudiante de la Tecnicatura Universitaria en Programación y Tecnicatura en Desarrollo de Software.  
-🌱 Actualmente aprendiendo **Python, Java, JavaScript, SQL, Django y redes**.  
-🎯 Buscando oportunidades como **Desarrolladora Trainee / Junior**.  
-🔐 Interesada en **IA aplicada a seguridad, ciberdefensa y sistemas inteligentes responsables**.
+Junior Data & Python Developer focused on data analysis, automation, and problem-solving through real projects.
+Currently building hands-on experience with Python, SQL, pandas, and data workflows.
